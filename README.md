@@ -4,8 +4,6 @@
   <b>25 years old • Based in Austria 🇦🇹</b>
 </p>
 
-<p>Enthusiastic and motivated self-learner in Information Technology, with a strong interest in exploring Full-Stack Development combined with DevOps and tackling complex business logic across various industrial and business sectors. Currently working as a Full-Stack Developer with a focus on the telecommunication sector, I bring several years of experience across diverse industries. I am now seeking opportunities to further deepen my expertise and contribute to innovative projects in my field.</p>
-
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
   <a target="_blank" href="https://www.javascript.com/">
@@ -27,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" />
   </a>
   <a target="_blank" href="https://www.rust-lang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="42" height="42" />
+    <img src="https://cdn.simpleicons.org/rust/white" alt="Rust" width="42" height="42" />
   </a>
 </p>
 
